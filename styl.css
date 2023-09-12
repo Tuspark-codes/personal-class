@@ -1,0 +1,76 @@
+.image{
+    min-height: 300px;
+    min-width: 80px;
+    background-color: rgb(53, 51, 191);
+    background-image: url(logo.png);
+    background-size: 15%;
+    background-repeat: no-repeat;
+    background-position: 105% -10%;
+}
+div{
+    background-color: rgb(227, 218, 218);
+    width: 65%;
+    height: 105%;
+}
+
+h1{
+    /* border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-color: rgb(94, 94, 147); */
+    text-align: center;
+    border-top: dashed ;
+    border-bottom: solid;
+    border-right: solid;
+    background-color: skyblue;
+    
+}
+h2{
+    /* border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-color: rgb(94, 94, 147);
+    border-top-style: dashed; */
+    text-align: center;
+    border-left: solid;
+    border-top: solid;
+    border-color: gray;
+    background-color: skyblue;
+}
+
+
+h3{
+    /* border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-color: rgb(94, 94, 147);
+    border-top-style: dashed; */
+    text-align: center;
+    border: solid ;
+    background-color: skyblue;
+}
+
+
+h4{
+    /* border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-color: rgb(94, 94, 147);
+    border-top-style: dashed; */
+    text-align: center;
+    border-top: dotted;
+    border-left: solid;
+    border-right: solid;
+    border-bottom: solid;
+    background-color: skyblue;
+}
+
+p{
+    /* border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-color: rgb(94, 94, 147);
+    border-top-style: dashed; */
+    text-align: center;
+    border: solid gray;
+    background-color: skyblue;
+}
+
+
+
+

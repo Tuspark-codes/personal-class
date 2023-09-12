@@ -1,0 +1,82 @@
+body{
+    font-family: sans-serif;
+    max-width: 80%;
+    margin: auto;
+    background-image: url(https://images.pexels.com/photos/12548443/pexels-photo-12548443.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: rgb(100, 100, 210);
+    background-color: rgb(101, 213, 101);
+    font-weight: 800;
+    font-size: 60px;
+    font-variant: small-caps;
+    font-style: italic;
+    background-image:url(https://images.pexels.com/photos/18024337/pexels-photo-18024337/free-photo-of-a-man-with-fire-in-blue-hour.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    color: #333;
+    font-weight: 100;
+    line-height: 1.5;
+    font-style: oblique;
+    text-transform: capitalize;
+    text-align: center;
+
+    background-color: blue;
+    color: #fff;
+    background-image: ;
+
+
+    width: 450px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+span{
+    display: block;
+    color: #fff;
+    text-indent: 20px;
+}
+
+.card{
+    height: 400px;
+    width: 400px;
+    background-color: #333;
+    background-image: url(logo.png);
+    background-size: 15%;
+    background-repeat: no-repeat;
+    background-position: 105% -5%;
+
+}
+
+h3{
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-color: rgb(94, 94, 147);
+    border-radius: 12px;
+    border-top-style: dashed;
+}
+
+.profile{
+    width: 200px;
+    height: 200px;
+
+    background-image: url(https://images.pexels.com/photos/17544153/pexels-photo-17544153/free-photo-of-man-posing-in-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.header2{
+    text-align: center;
+    font-size: 12px;
+    background-color: aqua;
+    border-left-style: solid;
+    border-left-color: blue;
+}

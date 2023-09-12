@@ -1,0 +1,46 @@
+/*
+selector{
+    property: value;
+}
+*/
+
+/*{ 
+    color: red;
+}
+*/
+
+#Paragraph{
+    color: darkblue;
+}
+.bs-story{
+    color: black;
+}
+
+.Firstdiv h1.head{
+    color: blue;
+    font-size: 50px;
+}
+.Firstdiv h1.head:hover{
+    color: brown;
+}
+
+
+.Firstdiv + p{
+    color: blueviolet;
+}
+div > p{
+    color: crimson;
+}
+
+input{
+    outline: none;
+}
+
+input:focus{
+    border: 2px solid green;
+}
+
+.seconddiv :first-child{
+    color: green;
+    font-size: 40px;
+}
